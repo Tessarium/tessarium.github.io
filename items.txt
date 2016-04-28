@@ -1,1 +1,1 @@
-{"AK-47 | Aquamarine Revenge (Battle-Scarred)":{"value":363}}
+{"AK-47 | Aquamarine Revenge (Battle-Scarred)":{"last_updated":1460098815,"quantity":66,"value":363}}
