@@ -1,1 +1,1 @@
-{"Chroma 3 Case":{"value":2}}
+{"Chroma 3 Case":{"value":1.6}}
