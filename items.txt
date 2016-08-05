@@ -1,1 +1,1 @@
-{"Chroma 3 Case":{"value":1.8}}
+{"Chroma 3 Case":{"value":1.95},"Chroma Case":{"value":2.5},"Operation Phoenix Weapon Case":{"value":1.95}}
