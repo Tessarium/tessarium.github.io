@@ -1,1 +1,0 @@
-{"Chroma 3 Case":{"value":0.71},"Chroma Case":{"value":1.77},"Operation Phoenix Weapon Case":{"value":1.75},"CS:GO Weapon Case 3":{"value":5.5},"Shadow Case":{"value":0.37},"Operation Wildfire Case":{"value":0.2},"Falchion Case":{"value":0.31},"Chroma 2 Case":{"value":0.56},"Revolver Case":{"value":0.31}}
