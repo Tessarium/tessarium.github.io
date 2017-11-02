@@ -1,1 +1,1 @@
-Exalted Manifold Paradox,125108;Manifold Paradox,125109;Inscribed Manifold Paradox,127111;Frost Avalanche Bundle,135095;Inscribed Frost Avalanche,120095;Exalted Frost Avalanche,120134;Frost Avalanche,120132;
+Exalted Manifold Paradox,125108;Manifold Paradox,125109;Inscribed Manifold Paradox,127111;Frost Avalanche Bundle,130095;Inscribed Frost Avalanche,115095;Exalted Frost Avalanche,115134;Frost Avalanche,115132;
